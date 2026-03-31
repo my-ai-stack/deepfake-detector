@@ -3,6 +3,8 @@
 > **Detect AI-generated audio and video deepfakes** — Protect your organization against voice spoofing and face swap fraud with PyTorch ML.
 
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://python.org)
+
+[🚀 Try Live Demo](https://huggingface.co/spaces/my-ai-stack/deepfake-detector)
 [🚀 Try Live Demo](https://huggingface.co/spaces/my-ai-stack/deepfake-detector)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/walidsobhie-code/deepfake-detector)](https://github.com/walidsobhie-code/deepfake-detector/stargazers)
