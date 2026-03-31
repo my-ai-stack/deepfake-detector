@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/walidsobhie-code/deepfake-detector)](https://github.com/walidsobhie-code/deepfake-detector/stargazers)
 
-[🚀 Try Live Demo](https://huggingface.co/spaces/my-ai-stack/deepfake-detector)
+[🤗 HuggingFace 🚀 Try Live Demo](https://huggingface.co/spaces/my-ai-stack/deepfake-detector)
 
 ## 🎯 What It Does
 
